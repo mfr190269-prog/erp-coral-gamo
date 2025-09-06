@@ -1,3 +1,3 @@
 # ERP Coral Gamo — App (Vercel Starter)
 
-Sigue las instrucciones del mensaje para desplegar en Vercel.
+Sigue las instrucciones del mensaje para desplegar en Vercel...
