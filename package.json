@@ -1,5 +1,6 @@
 {
   "name": "erp-coral-gamo",
+  "description": "ERP Coral Gamo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
