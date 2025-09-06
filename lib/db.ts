@@ -1,0 +1,1 @@
+import { Pool } from 'pg';let pool:Pool|null=null;export function getPool(){if(!pool){const c=process.env.DATABASE_URL;if(!c) throw new Error('DATABASE_URL no está configurado');pool=new Pool({connectionString:c,ssl:{rejectUnauthorized:false}});}return pool;}

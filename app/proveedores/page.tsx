@@ -1,0 +1,1 @@
+export default function Page(){return(<main className='border rounded p-4'><h2 className='text-xl font-semibold mb-2'>Proveedores</h2><p className='text-sm text-gray-600'>CRUD de proveedores (pendiente de implementar).</p></main>)}
